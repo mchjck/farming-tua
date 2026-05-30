@@ -37,36 +37,4 @@ By leveraging smart contracts, the platform eliminates intermediaries while ensu
 4. 1087 0496	  	 9. 5913 1669
 5. 3919 2716	  	10. 7993 3933
 
-### HOR G
-
-0f8bb-a31a3
-
-e012c-13605
-
-9f361-25c65
-
-296d9-1810c
-
-25bde-1fa7a
-
-c48e4-d01a7
-
-56765-c4bdb
-
-045f7-d7478
-
-979e9-f8ce5
-
-3220d-08108
-
-f9102-5e3f8
-
-74d70-78d7b
-
-5b3c4-09cb8
-
-66adb-0006b
-
-8dfe9-72f56
-
-64f06-f202d
+- refer: yarnrct.yml
